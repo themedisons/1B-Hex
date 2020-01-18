@@ -1,5 +1,5 @@
 # 1B3.py Programma grafiskai kompleksā skaitļa attēlošanai polārās koordinātās
-# Autors: Sandis Mālnieks 193RIC058
+# Autors: Raivis Medvedevs 193NEB004 NEMB0
 # Datums: 17.01.2020
 
 from matplotlib.pyplot import figure, show
